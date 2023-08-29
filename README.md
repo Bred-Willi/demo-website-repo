@@ -1,2 +1,3 @@
 # demo-website-repo
-Test Repo
+This is a test repo.
+Author: Willi-Bread
